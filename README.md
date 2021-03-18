@@ -1,2 +1,4 @@
-# perceptron
-A simple perceptron class.
+# Perceptron
+
+A simple perceptron class for learning some AI.
+
